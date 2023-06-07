@@ -2,6 +2,7 @@ package efs.task.collections.entity;
 
 import java.util.List;
 
+
 public class Town {
     private String townName;
     private List<String> startingHeroClasses;
